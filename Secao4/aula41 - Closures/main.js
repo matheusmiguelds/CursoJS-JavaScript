@@ -1,3 +1,4 @@
+// closures são funções dentro de função
 function retornaFuncao() {
     const nome = "Matheus";
     return function() {
